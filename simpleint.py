@@ -9,7 +9,7 @@ time = 3               # Time period in years
 simple_interest = (principal * rate * time) / 100
 
 # Display the result
-print("✅ Simple Interest Calculation:")
+print(" Simple Interest Calculation:")
 print(f"Principal (P): ₹{principal}")
 print(f"Rate (R): {rate}%")
 print(f"Time (T): {time} years")
