@@ -10,7 +10,7 @@ simple_interest = (principal * rate * time) / 100
 
 # Display the result
 print(" Simple Interest Calculation:")
-print(f"Principal (P): ₹{principal}")
+print(f"Principal (P): {principal}")
 print(f"Rate (R): {rate}%")
 print(f"Time (T): {time} years")
 print(f"Simple Interest: ₹{simple_interest:.2f}")
